@@ -18,7 +18,7 @@ streamlit run app.py
 Python, pandas, Jupyter, Streamlit, GitHub, Render
 
 ## Aplikacja
-https://TUTAJ-WKLEJ-SWOJ-ADRES.onrender.com
+https://laboratorium-eda-jekb.onrender.com
 
 ## Wnioski
 1. Kanal internetowy daje wieksza sprzedaz (1490 zl) niz sklep (760 zl).
